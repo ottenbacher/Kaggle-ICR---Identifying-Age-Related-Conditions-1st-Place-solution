@@ -1,0 +1,1 @@
+{"RAW_DATA_DIR": "../data/raw/", "TRAIN_DATA_CLEAN_PATH": "../data/processed/train.csv", "TEST_DATA_CLEAN_PATH": "../data/processed/test.csv", "SAVED_MODEL_WEIGHTS_DIR": "../saved_model_weights/", "SAVED_MODEL_WEIGHTS_BEST_DIR": "../saved_model_weights_best/", "SUBMISSION_DIR": "../submissions/"}

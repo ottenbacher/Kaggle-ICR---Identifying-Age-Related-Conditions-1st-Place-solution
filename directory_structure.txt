@@ -1,0 +1,8 @@
+.
+./icr_2023
+./icr_2023/documentation
+./icr_2023/code
+./icr_2023/submissions
+./icr_2023/data
+./icr_2023/data/raw
+./icr_2023/data/processed
