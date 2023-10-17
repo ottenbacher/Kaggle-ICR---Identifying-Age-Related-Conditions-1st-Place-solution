@@ -1,5 +1,6 @@
 Below you can find an outline of how to reproduce my solution for the ICR - Identifying Age-Related Conditions competition.
 If you run into any trouble with the setup/code or have any questions please contact me at r_o_m_a_h_a@mail.ru
+
 https://www.kaggle.com/competitions/icr-identify-age-related-conditions/leaderboard
 
 #The hardware: AMD Ryzen 9 5900HX (8 cores), 64 Gb RAM, no GPU needed
